@@ -10,6 +10,12 @@ export default {
     mode: Phaser.Scale.FIT,
     autoCenter: Phaser.Scale.CENTER_BOTH,
   },
+  physics: {
+    default: 'arcade',
+    arcade: {
+      gravity: { y: 500}
+    }
+  }
   // render:{
 
   // }
