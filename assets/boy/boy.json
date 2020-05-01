@@ -1,0 +1,416 @@
+{
+	"textures": [
+		{
+			"image": "boysprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1355,
+				"h": 119
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boyIdle.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 28,
+						"w": 91,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 91,
+						"h": 115
+					},
+					"anchor": {
+						"x": 0.44,
+						"y": 0.52054795
+					}
+				},
+				{
+					"filename": "boyTemplateClean-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 34,
+						"w": 84,
+						"h": 109
+					},
+					"frame": {
+						"x": 94,
+						"y": 1,
+						"w": 84,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 89,
+						"h": 117
+					},
+					"frame": {
+						"x": 180,
+						"y": 1,
+						"w": 89,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 85,
+						"h": 110
+					},
+					"frame": {
+						"x": 271,
+						"y": 1,
+						"w": 85,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 91,
+						"h": 115
+					},
+					"frame": {
+						"x": 358,
+						"y": 1,
+						"w": 91,
+						"h": 115
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 38,
+						"w": 85,
+						"h": 108
+					},
+					"frame": {
+						"x": 451,
+						"y": 1,
+						"w": 85,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 91,
+						"h": 114
+					},
+					"frame": {
+						"x": 538,
+						"y": 1,
+						"w": 91,
+						"h": 114
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 38,
+						"w": 85,
+						"h": 108
+					},
+					"frame": {
+						"x": 631,
+						"y": 1,
+						"w": 85,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 79,
+						"h": 110
+					},
+					"frame": {
+						"x": 718,
+						"y": 1,
+						"w": 79,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 78,
+						"h": 103
+					},
+					"frame": {
+						"x": 799,
+						"y": 1,
+						"w": 78,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 36,
+						"w": 78,
+						"h": 109
+					},
+					"frame": {
+						"x": 879,
+						"y": 1,
+						"w": 78,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyTemplateClean-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 79,
+						"h": 103
+					},
+					"frame": {
+						"x": 959,
+						"y": 1,
+						"w": 79,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyRun1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 46,
+						"w": 79,
+						"h": 100
+					},
+					"frame": {
+						"x": 1040,
+						"y": 1,
+						"w": 79,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyRun2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 40,
+						"w": 77,
+						"h": 106
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1,
+						"w": 77,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyRun3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 47,
+						"w": 77,
+						"h": 99
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1,
+						"w": 77,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boyRun4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 41,
+						"w": 75,
+						"h": 105
+					},
+					"frame": {
+						"x": 1279,
+						"y": 1,
+						"w": 75,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	]
+
+}
