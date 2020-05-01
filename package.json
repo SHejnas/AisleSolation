@@ -1,15 +1,15 @@
 {
-  "name": "phaser3-es6-webpack-boilerplate",
+  "name": "aisle-solation",
   "version": "1.0.0",
-  "description": "A boilerplate project for creating games with Phaser3, ES6 and Webpack",
+  "description": "social isolation side scroller",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jed Hastwell",
-  "repository": "https://github.com/jedhastwell/phaser3-es6-webpack-boilerplate",
+  "author": "Steven Hejnas",
+  "repository": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.3",
@@ -25,6 +25,6 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
-    "phaser": "^3.22.0"
+    "phaser": "^3.23.0"
   }
 }
